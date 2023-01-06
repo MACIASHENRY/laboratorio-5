@@ -117,4 +117,3 @@ Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
 
 
 
-
