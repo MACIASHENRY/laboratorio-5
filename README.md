@@ -1,5 +1,11 @@
 # laboratorio-5
 
+Carrión Said
+
+Macías Henry
+
+Pilaguano José
+
 Objetivos
 
 1.- Objetivo General
@@ -111,13 +117,17 @@ Con la misma conexión que hicimos anteriormente se coloca el multímetro en Res
 
 Con el resultado que nos dio en el punto 5.4. se deja esa resistencia, con una sola fuente de voltaje con el valor que medimos en el punto 5.3. a continuacióm, se conecta en serie con la R5.
 
-Tabla de valores del Circuito Equivalente de Thévenin.
+6. Tabla de valores del Circuito Equivalente de Thévenin.
 
 [![c12.png](https://i.postimg.cc/hjQBZ19P/c12.png)](https://postimg.cc/R6myNfsj)
 
 Tabla de comprobación del Teorema de Thévenin
 
 [![c13.png](https://i.postimg.cc/RhrzkJR1/c13.png)](https://postimg.cc/CB4tD19d)
+
+7. Vídeo
+
+https://youtu.be/LWQ8vo_UnF4
 
   8. Conclusiones
 
